@@ -63,8 +63,14 @@ Main methods:
 
 ## How to run the project
 
-1. Clone or download the repository.
-2. Open the project folder.
+1. Clone or download the repository:
+
+```
+bash
+git clone https://github.com/Alina29051981/click-to-remove.git
+```
+
+2. Open the project folder in your file manager.
 3. Open the index.html file in a browser.
 4. Press F12 → open the Console tab.
 
@@ -171,10 +177,16 @@ click-to-remove/
 
 ## Як запустити проєкт
 
-1. Склонуйте або завантажте репозиторій.
-2. Відкрийте папку проєкту.
+1. Склонуйте або завантажте репозиторій:
+
+```
+bash
+git clone https://github.com/Alina29051981/click-to-remove.git
+```
+
+2. Відкрийте папку проєкту у файловому менеджері.
 3. Відкрийте файл index.html у браузері.
-4. Натисніть F12 → вкладка Console.
+4. Натисніть F12 → відкрийте вкладку Console.
 
 У консолі буде показано:
 
